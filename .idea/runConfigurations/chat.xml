@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="chat" type="GoApplicationRunConfiguration" factoryName="Go Application">
+    <module name="chat-server" />
+    <working_directory value="$PROJECT_DIR$" />
+    <parameters value="-k 123 -s 1qaws" />
+    <kind value="PACKAGE" />
+    <package value="chat/cmd/chat" />
+    <directory value="$PROJECT_DIR$" />
+    <filePath value="$PROJECT_DIR$/cmd/chat/chat.go" />
+    <method v="2" />
+  </configuration>
+</component>
